@@ -1,0 +1,5 @@
+pandas
+numpy
+nltk
+pyprind
+scikit-learn
